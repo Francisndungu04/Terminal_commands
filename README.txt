@@ -1,3 +1,2 @@
-TERMINAL COMMANDS
-
--`mkdir`
+#Terminal COMMANDS
+- 
